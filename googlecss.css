@@ -1,12 +1,11 @@
 
-
 body {
   overflow:hidden;
 }
 
 a {
   font-family: Arial, sans-serif;
-  font-size: 13px;
+  font-size: 14px;
   text-decoration: none;
   color: #404040;
   &:hover {
